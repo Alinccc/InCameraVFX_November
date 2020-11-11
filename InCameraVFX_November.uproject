@@ -83,7 +83,7 @@
 		},
 		{
 			"Name": "NDIIOPlugin",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OptitrackNatnet",
